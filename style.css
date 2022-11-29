@@ -1,0 +1,75 @@
+body{
+    background-image: url(img/pexels-gradienta-7135019.jpg);
+}
+
+.container{
+    background-color: rgba(255, 255, 255, 0.4);
+    padding: 10px 10px;
+    border-radius: 20px 20px 20px 20px;
+    font-family: sans-serif;
+}
+
+.img2{                  /*imagem vermelha*/
+     width: 100%;      /*Largura*/
+     height: 180px;   /*Altura*/
+     border-radius: 20px 20px 0px 0px;
+}
+
+th{             /*TABELAS TH*/
+    width:100px;
+}
+
+.bandeiras{       /*FORMATAÇÃO DAS BANDEIRAS*/
+    width: 50px;
+    height:50px;
+    display:inline-block;
+    position: relative;
+}
+p{                   /*FORMATAÇÃO DO TEXTO*/
+    font-size: 20px;
+    text-indent: 50px;
+    text-align: center;
+}
+
+.sobreacopa{
+    width: 100%;
+    margin-top: 15px;
+    margin-bottom: 40px;
+    text-align: initial;
+    margin-left: 10px;
+    margin-right: 10px;
+}
+
+h4{
+    text-align: center
+}
+.decorarh40{
+    background-color: limegreen;
+}
+
+.decorarh4{
+    background-color: limegreen;
+    margin-left: 80px;
+    margin-right: 80px;
+    margin-top: 80px;
+}
+
+.container-fluid1{ /*tabela */
+    margin-left: 80px;
+    margin-right: 80px;
+}
+
+.carross{
+    margin-left: 80px;
+    margin-right: 80px;
+}
+
+.rowf{ 
+    font-style: verdana;
+    text-align: center;
+    background-color: aquamarine;
+    margin-left: 80px;
+    margin-right: 80px;
+    margin-top: 5px;
+}
+
